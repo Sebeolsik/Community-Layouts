@@ -21,6 +21,30 @@
 그 외에도 macOS용 [구름 입력기](http://gureum.io/), Linux용 [libhangul 포크](https://github.com/3beol/libhangul) 등에서 커뮤니티 자판을 지원하기도 합니다.
 
 
-## 목록
+## 현역 자판 목록
 
-업데이트 예정.
+### 갈마들이 공세벌식 계열
+
+- 3-2015
+- [3-P3](https://pat.im/1128)
+
+### 신광조 세벌식 계열
+
+- [신세벌식 원안](https://pat.im/1104)
+- 박경남 수정 신세벌식
+- [신세벌식 M](http://cafe.daum.net/3bulsik/JMKX/77)
+- [신세벌식 P2](https://pat.im/1136)
+- [변세벌식](http://cafe.daum.net/3bulsik/JMKX/160)
+
+### 표준 두벌식 호환형
+
+- 가온한글 38K
+- [3-18Na](https://kldp.org/node/160815)
+
+### 독자 계열
+
+- [참신세벌식](http://cafe.daum.net/3bulsik/JMKX/147)
+
+### 모아치기 자판
+
+- [세모이](http://ssg.wo.tc) (세벌식 모아치기)
