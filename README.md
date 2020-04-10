@@ -23,28 +23,30 @@
 
 ## 현역 자판 목록
 
+\* 임시로 각 자판의 배포 페이지에 연결해놓은 상태이며, 위키에 각 자판별로 페이지가 생성되면 고쳐서 연결해주시기 바랍니다.
+
 ### 갈마들이 공세벌식 계열
 
 - 3-2015
-- [3-P3](https://pat.im/1128)
+- [3-P3](https://pat.im/1128)*
 
 ### 신광조 세벌식 계열
 
-- [신세벌식 원안](https://pat.im/1104)
+- [신세벌식 원안](https://pat.im/1104)*
 - 박경남 수정 신세벌식
-- [신세벌식 M](http://cafe.daum.net/3bulsik/JMKX/77)
-- [신세벌식 P2](https://pat.im/1136)
-- [변세벌식](http://cafe.daum.net/3bulsik/JMKX/160)
+- [신세벌식 M](http://cafe.daum.net/3bulsik/JMKX/77)*
+- [신세벌식 P2](../../wiki/신세벌식-P2)
+- [변세벌식](http://cafe.daum.net/3bulsik/JMKX/160)*
 
 ### 표준 두벌식 호환형
 
 - 가온한글 38K
-- [3-18Na](https://kldp.org/node/160815)
+- [3-18Na](https://kldp.org/node/160815)*
 
 ### 독자 계열
 
-- [참신세벌식](http://cafe.daum.net/3bulsik/JMKX/147)
+- [참신세벌식](http://cafe.daum.net/3bulsik/JMKX/147)*
 
 ### 모아치기 자판
 
-- [세모이](http://ssg.wo.tc) (세벌식 모아치기)
+- [세모이](http://ssg.wo.tc) (세벌식 모아치기)*
